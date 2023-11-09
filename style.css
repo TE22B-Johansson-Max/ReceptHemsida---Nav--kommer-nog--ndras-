@@ -1,0 +1,33 @@
+body{
+    background-color: #CACEAF;
+    margin: 35px;
+    height: 1365.33px;
+}
+
+nav{
+    text-align: center;
+    border:2px solid black;
+    width: 282.66px;
+    height: 1331.33px;
+    color: solid white;
+    
+}
+h3{
+    font-size: 55px;
+    font-family: 'Darker Grotesque', sans-serif;
+    line-height: 0.01;
+    font-weight:bolder;
+}
+
+header{
+    width: 1538.66px;
+    height: 116px;
+}
+
+li{
+    font-size: 31px;
+}
+h2{
+    font-size: 48px;
+    font-weight: normal;
+}
