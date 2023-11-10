@@ -2,6 +2,9 @@ body{
     background-color: #CACEAF;
     margin: 35px;
     height: 1365.33px;
+    width: 1920px;
+    display: grid;
+    grid-template-columns: 1fr auto;
 }
 
 nav{
@@ -20,8 +23,11 @@ h3{
 }
 
 header{
-    width: 1538.66px;
+    width:1555px;
     height: 116px;
+    text-align: center;
+    margin-right: 35px;
+    
 }
 
 li{
@@ -30,4 +36,14 @@ li{
 h2{
     font-size: 48px;
     font-weight: normal;
+}
+
+nav, header {
+    background-color:gainsboro;
+}
+h1{
+    font-size: 80px;
+    font-family: 'Darker Grotesque', sans-serif;
+    line-height: 0.01;
+    font-weight:lighter;
 }
