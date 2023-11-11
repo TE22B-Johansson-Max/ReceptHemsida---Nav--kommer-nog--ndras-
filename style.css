@@ -7,6 +7,7 @@ body{
     background-color: #CACEAF;
     height: 1365.33px;
     width: 1920px;
+    margin-bottom: 100px;
 }
 
 .container{
@@ -26,7 +27,6 @@ body{
     width: 282.66px;
     height: auto;
     color: solid white;
-    padding-bottom: 58px;
 }
 
 h3{
@@ -43,9 +43,6 @@ h3{
     justify-items:left;
 }
 
-ul{
-    font-size: 31px;
-}
 h2{
     font-size: 48px;
     font-weight: normal;
@@ -83,13 +80,18 @@ ol{
     font-size: 25px;
 }
 
-.img1{
-    
-}
-
-.img2{
-}
-
 .img1, .img2 {
-    border: 1px solid black
+    border: 1px solid black;
+}
+
+p{
+    font-size: 20px;
+}
+
+.links{
+    font-size: 10px;
+}
+
+.navlista {
+    font-size: 31px;  
 }
